@@ -1,4 +1,5 @@
-# 1-Assessment summary 
+# in this project we make a data analysis from scratch  startign by collecting data from 3 different resources  then assess this data by  visaual or by coding and cleaning un necesseray data finished by gettting some insight and visualization and answering business question  needed .
+# 1-Assessment  and cleaning summery  
 ## 1.1-	Twitter_archive_enhanced .csv read as df_tw 
 ##### •	`Twitter_id` should be a string value not a int  and don’t duplicated as this column is  a unique value 
 ##### •	`Time stamp` have incorrect  type string and should be  
